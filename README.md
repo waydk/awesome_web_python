@@ -3,6 +3,7 @@
 Here will be useful links to make it easier to find information about python web development and more
 
 * [How the internet works](#internet-work)
+* [What is an IP address?](#ip-address)
 
 ## How the internet works
 
