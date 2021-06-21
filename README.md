@@ -13,4 +13,12 @@ Here will be useful links to make it easier to find information about python web
 * [How the Internet works in 4 minutes | An animated video](https://www.youtube.com/watch?v=Sfzo4xm5eX8)
 * [Code.org playlist](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 
+## What is an IP address?
+
+*References about ip*
+
+* [IP address](https://en.wikipedia.org/wiki/IP_address)
+* [Without IP Addresses, the Internet Would Disappear](https://whatismyipaddress.com/ip-address)
+* [What is an IP address?](https://help.apnic.net/s/article/What-is-an-IP-address)
+
 
