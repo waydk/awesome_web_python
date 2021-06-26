@@ -22,4 +22,13 @@ Here will be useful links to make it easier to find information about python web
 * [Without IP Addresses, the Internet Would Disappear](https://whatismyipaddress.com/ip-address)
 * [What is an IP address?](https://help.apnic.net/s/article/What-is-an-IP-address)
 
+## What is DNS?
+
+*References about dns*
+
+* [What is DNS? | How DNS works](https://www.cloudflare.com/learning/dns/what-is-dns/)
+* [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
+* [What is DNS and how does it work?](https://www.networkworld.com/article/3268449/what-is-dns-and-how-does-it-work.html)
+
+
 
